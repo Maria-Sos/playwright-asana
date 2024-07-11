@@ -1,6 +1,6 @@
 # Preparation:
 
-- create `.env` file
+- after cloning this project create `.env` file in rote folder of this project
 - add next env varaibles:
     ```python
     --  BASE_URL = 'youUrl'
